@@ -8,5 +8,7 @@ from collections import deque
 from keras import backend as K
 import tensorflow as tf
 import numpy as np
+import scipy as sp
 import random
 import gym
+
